@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+ 
+ 
+}
+
+.container{
+    background-color: rgb(244, 246, 246);
+    text-align: center;
+    align-content: center;
+    gap: 50px;
+
+    
+}
+.cabecalho{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-size: 30px;
+    width: 500px;}
+   
+  
+.contato{
+
+    
+}
+
+.imgs{
+    gap: 40px;
+    display: grid;
+    grid-template-rows: auto
+    ''
+    '';
+   
+}
+.img1{
+width: 800px;
+left: 400px;
+
+}
+.img2{
+    width: 300px;
+    left: 400px;
+}
+.img3{
+    width: 300px;
+    left: 400px;
+}.img4{
+    width: 300px;
+    left: 400px;
+}
+.title{
+    padding: 50px;
+}
